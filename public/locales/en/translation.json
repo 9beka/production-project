@@ -1,5 +1,9 @@
 {
-  "Ключ для перевода": "Key for translation",
   "Перевод": "Translate",
-  "Язык": "English"
+  "Язык": "English",
+  "Главное" : "Main" ,
+  "О сайте" : "About", 
+  "Страница не найдена": "Page not found",
+  "Произошла непредвиденная ошибка": "Something went wrong" ,
+  "Обновить страницу" : "Refresh page"
 }
