@@ -1,11 +1,9 @@
 import { classNames } from 'shared/lib/classNames/classNames';
 import './Loader.scss';
+
 interface LoaderProps {
 className?: string;
 }
-export const Loader = ({ className }: LoaderProps) => {
-  return (
-    <div className={classNames("lds-dual-ring", {}, [className])}>
-    </div>
-   );
-};
+export const Loader = ({ className }: LoaderProps) => (
+    <div className={classNames('lds-dual-ring', {}, [className])} />
+);
