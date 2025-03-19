@@ -11,5 +11,7 @@ export const BugButton = () => {
             throw new Error();
         }
     }, [error]);
-    return <Button onClick={throwError}>{t('throw Error')}</Button>;
+    return <Button onClick={throwError}>
+        {t('throw Error')}
+        </Button>;
 };

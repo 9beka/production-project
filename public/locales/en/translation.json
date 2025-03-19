@@ -5,5 +5,8 @@
   "О сайте" : "About", 
   "Страница не найдена": "Page not found",
   "Произошла непредвиденная ошибка": "Something went wrong" ,
-  "Обновить страницу" : "Refresh page"
+  "Обновить страницу" : "Refresh page",
+  "throw Error" : "Throw Error",
+  "Главная страница": "Main page",
+  "Короткий язык" : "En"
 }
